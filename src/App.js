@@ -10,6 +10,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p> */}
         <p> This is the new personal website of Owen Velkoff </p>
+        <p> it will be very cool </p>
         {/* <a
           className="App-link"
           href="https://reactjs.org"
