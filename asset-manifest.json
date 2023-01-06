@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/personal-website/static/css/main.073c9b0a.css",
-    "main.js": "/personal-website/static/js/main.6faefed9.js",
-    "static/js/787.71e672d5.chunk.js": "/personal-website/static/js/787.71e672d5.chunk.js",
-    "static/media/logo.svg": "/personal-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/personal-website/index.html",
-    "main.073c9b0a.css.map": "/personal-website/static/css/main.073c9b0a.css.map",
-    "main.6faefed9.js.map": "/personal-website/static/js/main.6faefed9.js.map",
-    "787.71e672d5.chunk.js.map": "/personal-website/static/js/787.71e672d5.chunk.js.map"
+    "main.css": "/owenvelk.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/owenvelk.github.io/static/js/main.5a24ed8f.js",
+    "static/js/787.71e672d5.chunk.js": "/owenvelk.github.io/static/js/787.71e672d5.chunk.js",
+    "static/media/logo.svg": "/owenvelk.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/owenvelk.github.io/index.html",
+    "main.073c9b0a.css.map": "/owenvelk.github.io/static/css/main.073c9b0a.css.map",
+    "main.5a24ed8f.js.map": "/owenvelk.github.io/static/js/main.5a24ed8f.js.map",
+    "787.71e672d5.chunk.js.map": "/owenvelk.github.io/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.6faefed9.js"
+    "static/js/main.5a24ed8f.js"
   ]
 }
