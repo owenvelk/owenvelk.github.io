@@ -1,5 +1,4 @@
-<Header1>Welcome to my personal website/ portfolio!<Header1>
-
+<Header3>Welcome to my personal website/ portfolio!</Header3>
 
 To view my website in all of its glory, just open up [owenvelk.github.io](https://owenvelk.github.io)!
 
