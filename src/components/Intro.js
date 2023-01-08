@@ -6,7 +6,7 @@ import profile from '../images/Profile.jpeg';
 export default function Intro() {
     return (
         <div className="Intro">
-            <Image source={profile} width={500} height={630}/>
+            <Image source={profile} space={"50vw"} width={500} height={630}/>
             <IntroText />
         </div>
     );

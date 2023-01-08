@@ -1,8 +1,6 @@
-import '../styles/Image.css';
-
 export default function Image(props) {
     return (
-        <div className="Image"> 
+        <div style={{width: props.space}}> 
             <img src={props.source} alt='image' style={{
                 width: props.width,
                 height: props.height

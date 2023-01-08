@@ -7,7 +7,7 @@ export default function Education() {
     return (
         <div className="Education">
             <EducationText />
-            <Image source={gatech} width={600} height={750}/>
+            <Image source={gatech} space={"50vw"} width={600} height={750}/>
         </div>
     );
 }
