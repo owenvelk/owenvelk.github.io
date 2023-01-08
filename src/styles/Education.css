@@ -1,5 +1,4 @@
 .Education {
-    margin: 0px;
     padding: 0px;
     display: flex;
     flex-direction: row;
@@ -7,13 +6,15 @@
     justify-content: center;
     align-items: center;
     height: 100vh;
-    color: rgb(204, 191, 121);
+    color: white;
     font: Verdana;
     font-size: 30px;
 }
 
 .EducationText {
+    margin-left: 20px;
+    margin-right: 20px;
     display: flex;
-    width: 50vw;
     flex-direction: column;
+    width: 50vw;
 }

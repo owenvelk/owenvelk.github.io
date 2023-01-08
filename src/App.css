@@ -26,7 +26,13 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: rgb(179, 163, 105);
+  text-decoration: none;
+}
+
+.App-link:hover {
+  color: gold;
+  text-decoration: none;
 }
 
 @keyframes App-logo-spin {
