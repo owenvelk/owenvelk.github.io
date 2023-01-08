@@ -1,0 +1,19 @@
+.Intro {
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: white;
+    font: Verdana;
+    font-size: 30px;
+}
+
+.IntroText {
+    display: flex;
+    width: 50vw;
+    flex-direction: column;
+}

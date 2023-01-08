@@ -1,25 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
+import Intro from './components/Intro';
+import Education from './components/Education';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        {/* <img src={logo} className="App-logo" alt="logo" /> */}
-        {/* <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p> */}
-        <p> This is the new personal website of Owen Velkoff </p>
-        <p> it will be very cool </p>
-        {/* <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a> */}
-      </header>
+      <Intro />
+      <Education />
     </div>
   );
 }

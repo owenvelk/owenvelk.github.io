@@ -1,0 +1,19 @@
+.Education {
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: rgb(204, 191, 121);
+    font: Verdana;
+    font-size: 30px;
+}
+
+.EducationText {
+    display: flex;
+    width: 50vw;
+    flex-direction: column;
+}
