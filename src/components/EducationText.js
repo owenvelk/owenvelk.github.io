@@ -5,7 +5,7 @@ export default function EducationText() {
     return (
         <div className="EducationText">
             <h3>My Education</h3>
-            <p>I'm in my third year of studying Computer Science at Georgia Tech</p>
+            <p>I'm in my fourth year of studying Computer Science at Georgia Tech</p>
             <p>My threads (focuses) are&nbsp;
                 <a className="App-link" 
                     href="https://www.cc.gatech.edu/academics/threads/intelligence"

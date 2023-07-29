@@ -19,7 +19,7 @@ export default function ProjectList() {
                 </CardContent>
                 <CardActions>
                     <a href="https://github.com/owenvelk/owenvelk.github.io" className="App-link" target="blank">
-                        <Button size="large">
+                        <Button sx={{color: "rgb(179, 163, 105)"}} size="large">
                             View the repository
                         </Button>
                     </a>

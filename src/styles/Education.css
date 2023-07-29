@@ -1,5 +1,6 @@
 .Education {
-    padding: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
     display: flex;
     flex-direction: row;
     text-align: center;
