@@ -11,14 +11,14 @@ export default function ExperienceText() {
                     href="https://www.ncr.com/"
                     target="_blank"
                 >NCR Corporation</a>
-                , a Fortune 500 company in Atlanta
+                , a Fortune 500 company in Atlanta, GA
             </p>
             <p>I've also developed full-stack web application features at&nbsp;
                 <a className="App-link" 
                     href="https://verticeanalytics.ai/"
                     target="_blank"
                 >Vertice AI</a>
-                , a small startup
+                , a startup in Chapel Hill, NC
             </p>
         </div>
     );
