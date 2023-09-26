@@ -5,7 +5,7 @@ export default function IntroText () {
         <div className='IntroText'>
             <h3> Hi! My name is Owen Velkoff </h3>
             <p> I'm a Computer Science student at Georgia Tech </p>
-            <p> I'm interested in software engineering and have experience in full-stack development </p>
+            <p> I have plenty of experience in full-stack development, and am interested in software engineering, AI/ ML, and the future of technology! </p>
         </div>
     );
 }
